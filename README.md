@@ -13,7 +13,15 @@ A cheap and verified OV5640: <a href="https://item.taobao.com/item.htm?_u=e10quk
 
 # Hardware Setup - OV5640 (EVB OV5640)
 
-<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/0a652685-1a1f-4712-9fe3-5e0925c2de81" style="height:45%; width:45%"> <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/fd2e3413-281b-47c8-96b0-4db7ecfcb4c1" style="height:45%; width:45%">
+<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/0a652685-1a1f-4712-9fe3-5e0925c2de81" style="height:45%; width:45%">
+
+## Preview XGA - 1024x768
+
+<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/fd2e3413-281b-47c8-96b0-4db7ecfcb4c1" style="height:45%; width:45%">
+
+## Preview WQVGA - 480x272
+
+<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/0a79e799-715a-4406-af66-6bf90f17737b" style="height:45%; width:45%">
 
 # Vivado Resources
 
