@@ -6,7 +6,7 @@ This is a renew revision of OV5640 Camera Demonstration from ALINX.
 
 <img src="https://github.com/briansune/FPGA-Camera-MIPI-DVP-Verilog/assets/29487339/75ccc568-4f17-48a1-b2af-20211f98896c" style="height:20%; width:20%">
 
-A cheap and verified OV5640: <a href="https://item.taobao.com/item.htm?_u=e10quk0k218a&id=747353997633&spm=a1z09.2.0.0.77362e8d8Nq7isa" target="_blank">Camera Supplier</a>
+# A cheap and verified OV5640: <a href="https://item.taobao.com/item.htm?_u=e10quk0k218a&id=747353997633&spm=a1z09.2.0.0.77362e8d8Nq7isa" target="_blank">Camera Supplier</a>
 
 <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/e834ee1d-6a3a-48b0-9a1b-ce9001672ac4" style="height:35%; width:35%">
 
@@ -23,13 +23,12 @@ A cheap and verified OV5640: <a href="https://item.taobao.com/item.htm?_u=e10quk
 
 <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/0a652685-1a1f-4712-9fe3-5e0925c2de81" style="height:45%; width:45%">
 
-## Preview XGA - 1024x768
+## Preview
 
-<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/fd2e3413-281b-47c8-96b0-4db7ecfcb4c1" style="height:45%; width:45%">
-
-## Preview WQVGA - 480x272
-
-<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/0a79e799-715a-4406-af66-6bf90f17737b" style="height:45%; width:45%">
+| Resolution | Preview |
+|:---------------:|:----------------------------------------------------------------:|
+| XGA - 1024x768 | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/fd2e3413-281b-47c8-96b0-4db7ecfcb4c1" style="height:45%; width:45%"> |
+| WQVGA - 480x272 | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/0a79e799-715a-4406-af66-6bf90f17737b" style="height:45%; width:45%"> |
 
 # Vivado Resources
 
