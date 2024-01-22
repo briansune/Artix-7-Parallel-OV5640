@@ -2,6 +2,10 @@
 
 This is a renew revision of OV5640 Camera Demonstration from ALINX.
 
+## If this project is constructive, welcome to donate a drink to PayPal.
+
+<img src="https://github.com/briansune/FPGA-Camera-MIPI-DVP-Verilog/assets/29487339/75ccc568-4f17-48a1-b2af-20211f98896c" style="height:20%; width:20%">
+
 A cheap and verified OV5640: <a href="https://item.taobao.com/item.htm?_u=e10quk0k218a&id=747353997633&spm=a1z09.2.0.0.77362e8d8Nq7isa" target="_blank">Camera Supplier</a>
 
 <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/e834ee1d-6a3a-48b0-9a1b-ce9001672ac4" style="height:35%; width:35%">
@@ -9,6 +13,10 @@ A cheap and verified OV5640: <a href="https://item.taobao.com/item.htm?_u=e10quk
 # If you need the EVB - Email me
 
 <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/45cd2f58-d7d1-4216-8cf3-8c5b0ee9c6d4" style="height:35%; width:35%">
+
+### It is recommanded to use I/O @ 1.8V or 2.8V and ALINX board only support 3V3 so this example is demo purpose only!!!
+
+<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/f5beb537-d379-4f6e-a1e5-2e391437b7b5" style="height:35%; width:35%">
 
 
 # Hardware Setup - OV5640 (EVB OV5640)
