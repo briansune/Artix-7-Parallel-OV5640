@@ -30,6 +30,7 @@ This is a renew revision of OV5640 Camera Demonstration from ALINX.
 | XGA - 1024x768 | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/fd2e3413-281b-47c8-96b0-4db7ecfcb4c1" style="height:45%; width:45%"> |
 | WQVGA - 480x272 | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/0a79e799-715a-4406-af66-6bf90f17737b" style="height:45%; width:45%"> |
 | 720P - 1280x720 | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/38489da4-0c58-470a-820e-6f2b9f98e22b" style="height:45%; width:45%"> |
+| QuadVGA - 1280x960 | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/f700f459-ef60-42ff-8128-1ce464a0c697" style="height:45%; width:45%"> |
 
 # Vivado Resources
 
