@@ -32,10 +32,18 @@ This is a renew revision of OV5640 Camera Demonstration from ALINX.
 | 720P - 1280x720 | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/38489da4-0c58-470a-820e-6f2b9f98e22b" style="height:45%; width:45%"> |
 | QuadVGA - 1280x960 | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/f700f459-ef60-42ff-8128-1ce464a0c697" style="height:45%; width:45%"> |
 | 1080p - 1920x1080 Gray | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/d277faa2-46ce-415e-8b8c-5bb7f330ae35" style="height:45%; width:45%"> |
-| 1080p - 1920x1080 Debayer | <img src="" style="height:45%; width:45%"> |
+| 1080p - 1920x1080 Debayer | <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/89323185-f88f-4389-b2bb-9c1e5765e017" style="height:45%; width:45%"> |
 
 # Vivado Resources
 
+## General 720p or below resource usage:
+
 <img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/6bff728f-4fad-461a-bd23-077f95a8b43c">
+
+## Debayered 1080p resource usage:
+
+<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/b421edf9-f40d-45a1-87aa-895b36121299">
+
+<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/08159038-7bc3-4649-9fc2-aedab019f2ba">
 
 The timing of one node is not met but this is normal as cross-clock-domain ignore is not set in XDC which can be include or use CDC library to remove such warning.
